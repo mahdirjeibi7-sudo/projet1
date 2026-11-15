@@ -64,7 +64,7 @@ def main():
         elif choix == "3":
             rechercher_tache()
         elif choix == "0":
-            print("Au revoir !")
+            print("Au revoir, à bientôt !")
         else:
             print("Option invalide, veuillez choisir 1, 2, 3 ou 0.")
 
