@@ -32,5 +32,5 @@ Chaque tâche possède un numéro et un titre.
 
 ## Auteurs
 
-- NOM Prénom (étudiant 1)
+- Eya Nasri 
 - NOM Prénom (étudiant 2)
